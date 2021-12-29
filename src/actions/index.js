@@ -3,7 +3,7 @@ export const increment = () => {
     type: 'INCREMENET',
   };
 };
-export const Decrement = () => {
+export const decrement = () => {
   return {
     type: 'DECREMENT',
   };
